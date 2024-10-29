@@ -7,5 +7,5 @@ Goethe University Frankfurt <br>
 <br>
 [Academic Website](https://czymara.com/) <br>
 [Google Scholar](https://scholar.google.de/citations?user=khPqHmgAAAAJ) <br>
-[My teaching repositories]([https://czymara.com/](https://github.com/czymaraclass))
+[My teaching repositories](https://github.com/czymaraclass)
 
