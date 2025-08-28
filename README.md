@@ -2,7 +2,7 @@
 ### Christian S. Czymara
 
 **Senior Researcher** <br>
-*Migration & Migrants* and *Data Infrastructure & Open Science* themes <br>
+*Migration & Migrants* and *Data Infrastructure & Open Science* <br>
 [Netherlands Interdisciplinary Demographic Institute](https://www.goethe-university-frankfurt.de/75840234/czymara), Royal Netherlands Academy of Arts and Sciences <br>
 [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en) <br>
 <br>
