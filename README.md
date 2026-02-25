@@ -1,5 +1,5 @@
 
-### Christian S. Czymara
+### Welcome
 
 <img src="https://github.com/czymara/czymara/blob/main/czymara_logo.png" alt="Logo">
 
