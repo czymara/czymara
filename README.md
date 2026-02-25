@@ -1,6 +1,8 @@
 
 ### Christian S. Czymara
 
+<img src="https://github.com/czymara/czymara/blob/main/czymara_logo.png" alt="Logo">
+
 **Senior Researcher** <br>
 *Migration & Migrants* and *Data Infrastructure & Open Science* <br>
 [Netherlands Interdisciplinary Demographic Institute](https://www.goethe-university-frankfurt.de/75840234/czymara), Royal Netherlands Academy of Arts and Sciences <br>
